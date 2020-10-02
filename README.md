@@ -1,4 +1,4 @@
-# EddieJaoudeCommunity.github.io
+## EddieJaoudeCommunity.github.io
 
 ## What is our community about
 - We believe open source is for everyone.
